@@ -1,0 +1,21 @@
+# Secrets et données locales
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.kdbx
+*.rdp
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.iso
+*.lck
+*.lck.old
+*.log
+.DS_Store
+Thumbs.db
