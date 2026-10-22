@@ -2,7 +2,7 @@
 
 Laboratoire pratique de gestion des identités, des terminaux Windows et de la sécurité avec **Microsoft 365 Business Premium**, **Microsoft Entra ID**, **Microsoft Intune** et **VMware Workstation**.
 
-> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026.
+> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026, mise à jour le 22 octobre 2026.
 
 ## Objectifs
 - Déployer un poste Windows 11 Pro virtualisé.
@@ -31,8 +31,8 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 | Stratégie `LAB-MFA-Utilisateurs` | Créée en mode rapport uniquement ; activation ultérieure non confirmée |
 | Test MFA avec code TOTP via Google Authenticator | Connexion réussie ; origine exacte de l'exigence MFA non vérifiée |
 | Paramétrage de l'étendue MDM pour le groupe | Configuration engagée ; enregistrement final à confirmer |
-| Jonction Entra ID de la VM | À faire |
-| Inscription effective dans Intune | À faire |
+| Jonction Entra ID de la VM | Terminé — AzureAdJoined YES vérifié sur la VM |
+| Inscription effective dans Intune | Appareil FRANCK visible dans Intune |
 
 ## Documentation
 - [Installation VMware et Windows 11](docs/01-installation-vmware-windows11.md)
@@ -40,6 +40,8 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 - [Entra ID : utilisateurs et groupes](docs/03-entra-id-utilisateurs-groupes.md)
 - [MFA et accès conditionnel](docs/04-mfa-acces-conditionnel.md)
 - [Intune : préparation MDM](docs/05-intune-inscription-mdm.md)
+
+- [Intune : stratégie de verrouillage de session à 15 minutes](docs/06-intune-verrouillage-15-min.md)
 
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
