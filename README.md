@@ -2,7 +2,7 @@
 
 Laboratoire pratique de gestion des identités, des terminaux Windows et de la sécurité avec **Microsoft 365 Business Premium**, **Microsoft Entra ID**, **Microsoft Intune** et **VMware Workstation**.
 
-> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026, mise à jour le 26 octobre 2026.
+> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026, mise à jour le 4 novembre 2026.
 
 ## Objectifs
 - Déployer un poste Windows 11 Pro virtualisé.
@@ -35,6 +35,7 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 | Inscription effective dans Intune | Appareil FRANCK visible dans Intune |
 | Stratégie de verrouillage de session à 15 minutes | Appliquée et vérifiée |
 | Stratégie de conformité Windows 11 | Validée : non-conformité simulée, diagnostiquée et corrigée |
+| Module 7 — Déploiement et gestion des applications Intune | Terminé : Store, MSI, Win32, Microsoft 365 Apps, Supersedence et dépendances |
 
 ## Documentation
 - [Installation VMware et Windows 11](docs/01-installation-vmware-windows11.md)
@@ -45,6 +46,7 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 
 - [Intune : stratégie de verrouillage de session à 15 minutes](docs/06-intune-verrouillage-15-min.md)
 - [Intune : conformité Windows 11, diagnostic et remédiation](docs/07-intune-conformite-windows11.md)
+- [Intune : module 7 — déploiement d'applications, Supersedence et dépendances Win32](docs/08-intune-deploiement-applications.md)
 
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
