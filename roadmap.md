@@ -14,10 +14,16 @@
 - [ ] Confirmer l'enregistrement de l'étendue MDM pour le groupe.
 - [ ] Vérifier la version Windows finale (`winver`).
 - [ ] Créer un snapshot VMware de référence.
-- [ ] Joindre la VM à Microsoft Entra ID.
-- [ ] Vérifier l'inscription dans Intune.
-- [ ] Déployer une stratégie de conformité et un profil de configuration.
-- [ ] Tester le déploiement d'une application.
+- [x] Joindre la VM à Microsoft Entra ID.
+- [x] Vérifier l'inscription dans Intune.
+- [x] Déployer une stratégie de conformité et un profil de configuration.
+- [x] Tester le déploiement d'applications (module 7 : Win32, Supersedence, dépendances).
+
+## Windows Update for Business — module 8
+- [x] Déployer et vérifier un anneau pilote Windows Update.
+- [x] Configurer une stratégie Feature Update ciblant Windows 11 26H2.
+- [x] Analyser les événements Windows Update et documenter l'erreur 0x80240438.
+- [ ] Confirmer une installation de correctif de bout en bout avec les journaux d'installation.
 
 ## Phase 3 — Administration avancée [prévue]
 - [ ] Exchange Online : boîtes partagées et délégations.
