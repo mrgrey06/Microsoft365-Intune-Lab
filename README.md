@@ -2,7 +2,7 @@
 
 Laboratoire pratique de gestion des identités, des terminaux Windows et de la sécurité avec **Microsoft 365 Business Premium**, **Microsoft Entra ID**, **Microsoft Intune** et **VMware Workstation**.
 
-> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026, mise à jour le 9 novembre 2026.
+> Projet de formation personnel, sans affiliation avec Microsoft. Les comptes présentés sont fictifs. Documentation initiale au 20 octobre 2026, mise à jour le 10 novembre 2026.
 
 ## Objectifs
 - Déployer un poste Windows 11 Pro virtualisé.
@@ -37,6 +37,7 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 | Stratégie de conformité Windows 11 | Validée : non-conformité simulée, diagnostiquée et corrigée |
 | Module 7 — Déploiement et gestion des applications Intune | Terminé : Store, MSI, Win32, Microsoft 365 Apps, Supersedence et dépendances |
 | Module 8 — Windows Update for Business | Anneau pilote appliqué, stratégie Feature Update 26H2 configurée, supervision et diagnostic documentés |
+| Module 9 — Defender, Firewall, ASR et BitLocker | Protections et chiffrement vérifiés ; PUA à corriger, récupération Entra ID à reconfirmer |
 
 ## Documentation
 - [Installation VMware et Windows 11](docs/01-installation-vmware-windows11.md)
@@ -49,6 +50,7 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 - [Intune : conformité Windows 11, diagnostic et remédiation](docs/07-intune-conformite-windows11.md)
 - [Intune : module 7 — déploiement d'applications, Supersedence et dépendances Win32](docs/08-intune-deploiement-applications.md)
 - [Intune : module 8 — Windows Update for Business, Update Rings et supervision](docs/09-windows-update-for-business.md)
+- [Intune : module 9 — Defender, pare-feu, ASR et BitLocker](docs/10-securite-defender-bitlocker.md)
 
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
