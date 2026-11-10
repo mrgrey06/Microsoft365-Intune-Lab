@@ -25,6 +25,15 @@
 - [x] Analyser les événements Windows Update et documenter l'erreur 0x80240438.
 - [ ] Confirmer une installation de correctif de bout en bout avec les journaux d'installation.
 
+## Sécurité des terminaux — module 9
+- [x] Vérifier Defender Antivirus et les signatures.
+- [x] Déployer et contrôler le pare-feu Windows.
+- [x] Déployer 18 règles ASR en mode audit.
+- [x] Chiffrer C: avec BitLocker et TPM virtuel VMware.
+- [x] Documenter l'incident de média CD/DVD virtuel.
+- [ ] Activer et vérifier la protection PUA en mode blocage.
+- [ ] Reconfirmer la présence de la clé de récupération dans Entra ID.
+
 ## Phase 3 — Administration avancée [prévue]
 - [ ] Exchange Online : boîtes partagées et délégations.
 - [ ] Gestion des rôles et du moindre privilège.
