@@ -34,6 +34,12 @@
 - [ ] Activer et vérifier la protection PUA en mode blocage.
 - [ ] Reconfirmer la présence de la clé de récupération dans Entra ID.
 
+## Exchange Online — module 11
+- [x] Créer et ouvrir une boîte aux lettres partagée.
+- [x] Configurer les délégations d'accès.
+- [x] Envoyer un message et confirmer sa réception.
+- [ ] Vérifier les autorisations avec Exchange Online PowerShell.
+
 ## Phase 3 — Administration avancée [prévue]
 - [ ] Exchange Online : boîtes partagées et délégations.
 - [ ] Gestion des rôles et du moindre privilège.
