@@ -40,6 +40,13 @@
 - [x] Envoyer un message et confirmer sa réception.
 - [ ] Vérifier les autorisations avec Exchange Online PowerShell.
 
+## Entra ID avancé — module 12
+- [x] Créer un groupe dynamique et vérifier l'ajout automatique de Sory.
+- [x] Consulter le rôle Lecteur général dans les affectations.
+- [x] Examiner les journaux d'audit Entra ID.
+- [ ] Vérifier les permissions effectives du rôle en session de test.
+- [ ] Identifier les événements d'audit propres au groupe et au rôle.
+
 ## Phase 3 — Administration avancée [prévue]
 - [ ] Exchange Online : boîtes partagées et délégations.
 - [ ] Gestion des rôles et du moindre privilège.
