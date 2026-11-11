@@ -52,6 +52,8 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 - [Intune : module 8 — Windows Update for Business, Update Rings et supervision](docs/09-windows-update-for-business.md)
 - [Intune : module 9 — Defender, pare-feu, ASR et BitLocker](docs/10-securite-defender-bitlocker.md)
 
+- [Module 11 — Exchange Online : boîte partagée et test d'envoi](docs/12-exchange-online-boite-partagee.md)
+
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
 - [VMware — Taking ownership failed](troubleshooting/vmware-taking-ownership-failed.md)
