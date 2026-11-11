@@ -54,6 +54,8 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 
 - [Module 11 — Exchange Online : boîte partagée et test d'envoi](docs/12-exchange-online-boite-partagee.md)
 
+- [Module 12 — Entra ID avancé : groupe dynamique, RBAC et audit](docs/13-entra-id-avance.md)
+
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
 - [VMware — Taking ownership failed](troubleshooting/vmware-taking-ownership-failed.md)
