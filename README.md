@@ -56,6 +56,8 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 
 - [Module 12 — Entra ID avancé : groupe dynamique, RBAC et audit](docs/13-entra-id-avance.md)
 
+- [Module 13 — Collaboration SharePoint, OneDrive et Teams](docs/14-collaboration-sharepoint-onedrive-teams.md)
+
 ## Incidents documentés
 - [Échec d'installation Windows — 0x8007000D](troubleshooting/installation-windows-erreur-0x8007000D.md)
 - [VMware — Taking ownership failed](troubleshooting/vmware-taking-ownership-failed.md)
@@ -63,5 +65,5 @@ Laboratoire pratique de gestion des identités, des terminaux Windows et de la s
 ## Sécurité et confidentialité
 Ce dépôt ne contient **aucun mot de passe, secret, jeton, QR code MFA, capture de compte personnel, donnée de paiement, nom de domaine réel du tenant ou image de disque virtuel**. Les exemples sont fictifs et les captures futures doivent être anonymisées avant publication.
 
-## Suite
-Voir [roadmap.md](roadmap.md).
+## Clôture du parcours
+Les 13 modules du parcours pratique ont été abordés. Les limites de validation (OOBE Autopilot non testé, PUA à corriger, récupération BitLocker à reconfirmer, tests collaboratifs complémentaires) sont documentées. Voir [roadmap.md](roadmap.md).
