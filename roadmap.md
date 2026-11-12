@@ -47,6 +47,12 @@
 - [ ] Vérifier les permissions effectives du rôle en session de test.
 - [ ] Identifier les événements d'audit propres au groupe et au rôle.
 
+## Collaboration Microsoft 365 — module 13
+- [x] Créer un site SharePoint et un document dans une bibliothèque.
+- [x] Créer une équipe Teams et accéder à ses fichiers.
+- [x] Résoudre l'erreur de validation de sécurité de création de dossier via SharePoint.
+- [ ] Confirmer le partage OneDrive et les tests multi-utilisateurs.
+
 ## Phase 3 — Administration avancée [prévue]
 - [ ] Exchange Online : boîtes partagées et délégations.
 - [ ] Gestion des rôles et du moindre privilège.
